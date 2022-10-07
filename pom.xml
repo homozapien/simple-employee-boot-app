@@ -12,9 +12,9 @@
 	<artifactId>employee-boot-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee-boot-app</name>
-	<description>CI/CD Deployment for Spring Boot Application</description>
+	<description>Simple Project to Demonstrate Jenkins, Git, Maven, and EC2</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
